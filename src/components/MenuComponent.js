@@ -8,7 +8,7 @@ class Menu extends Component {
   }
 
   render() {
-const menu;
+const menu=0;
 
     return (
       <div className="container">
